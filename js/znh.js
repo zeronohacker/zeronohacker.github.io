@@ -44,4 +44,4 @@ function qipao() {
 }(jQuery);
 
 // 调用气泡方法
-qipao();
+btf.isJqueryLoad(qipao());
